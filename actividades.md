@@ -20,25 +20,33 @@ Robot móvil
 
 1-5 
 Programación basica (scratch)
-Juegos
+Juegos (matemáticas)
 
 6-12
-Encender led
+Encender led (electricidad)
+Motor	(moviento, medidas longitud)
 Bucles
 Variables
-Sensor luz
-Motor
-Sonido
+Sensor luz (medida de tiempo)
+Sonido (notas musicales)
 
 13-20
-Robots móvil
 
-Diseñando robots
+Tipos de robots
+Partes de un robots
+Robots móvil (teoría)
 
-Siguelíneas
-Huyeluz
+Comportamientos:
+	Siguelíneas
+	Huyeluz
 
 21-28 
+Diseño 3D
+TinkerCad
+	Llaveros, marcapáginas
+Técnicas de Impresión 3D
+
+
 
 
 Duración: 7 meses, 28 semanas
