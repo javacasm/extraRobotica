@@ -17,62 +17,56 @@ Podemos articular la asignatura en 3 partes fundamentales:
 
 # Metodología
 
-Evidentemente se hace necesario el uso del ordenador para la gran parte de las actividades. Los programas que se utilizan están adaptados para ser usados en las aulas de informática de los centros (Con instalaciones de [Guadalinex](http://www.guadalinex.org/) o similar)
+Evidentemente se hace necesario el uso del ordenador para la gran parte de las actividades. Los programas que se utilizan están adaptados para ser usados en las aulas de informática de los centros (con instalaciones de [Guadalinex](http://www.guadalinex.org/) o similar), aunque también son adaptables a sistemas windows.
 
-Para la mayoría de las actividades **no** son necesarias muchas habilidades con el ordenador, el manejo del ratón y leer es suficiente.
+![guadalinex](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsO6GjPyqz-yf6rpZNHlB58i9a-EYGQC5WPWJVUKzKqmwL4yTPy_jZdsY)
 
-Los entornos de programación tienen dificultad gradual y permiten avanzar 
+Para la mayoría de las actividades **no** son necesarias muchas habilidades con el ordenador, basta con el manejo del ratón y leer con atención la pantalla.
+
+Los entornos de programación tienen dificultad gradual y permiten avanzar progresivamente, permitiendo a los alumnos más avanzados o mayores 
 
 ![codigo](./images/codigo.png)
 
 # Proyectos
 
-A lo largo del curso realizaremos diferentes proyectos (que se van realizando durante varias semanas)
+A lo largo del curso realizaremos diferentes proyectos. Se van elaborando durante varias (cada 3 aproximadamente) semanas, completándolo al final de ese tiempo.
 
-### Juego
-
-![juego](http://www.stemulate.org/wp-content/uploads/2013/03/ScratchPiEstimation.png)
-
-### Halloween 
-
-![monster](http://cmuems.com/2012/a/files/2012/11/8147392151_12b24c3f12_h.jpg)
-
-### Adorno navideño robótico (en Diciembre)
-
-![arduinoTree](http://www.makeuseof.com/wp-content/uploads/2011/12/an-arduino-project-how-to-make-flashy-christmas-lights-ornaments.jpg)
-
-### Robot de reciclaje
-
-![robotreciclaje](./images/roboticaDIY.jpg)
-
-### Robot móvil
-
-![robot movil](./images/robot_movil.png)
-
-### Llaveros, adornos, marcapáginas
-
-![llavero](./images/nombre3D.png)
+En ellos se aplican los conocimientos propios de cada actividad además de habilidades como la redacción de documentación, evaluación del costes, trabajo en equipo, reparto de tareas...
 
 # Actividades
 
-1-5 
-Programación basica (scratch)
-Juegos Geométricos (matemáticas)
-Aprende
-![figurasGeometricas](./imagenes/FigurasMatematicas.png)
-Creamos nuestros propios dibujos (Las Tic en la asignatura de plástica)
+## Semanas 1-5 
 
-El proyecto final será un juego 
+* Programación basica (scratch)
+* Juegos Geométricos (matemáticas)
+![figurasGeometricas](./images/FigurasMatematicas.png)
+* Creamos nuestros propios dibujos (Las Tic en la asignatura de plástica)
 
-6-12
-Encender led (electricidad)
-Bucles 
-Variables (series matemáticas)
-Sonido (notas musicales)
+### Proyecto: Juego
 
-Motor	(moviento, medidas longitud)
+![juego](http://www.stemulate.org/wp-content/uploads/2013/03/ScratchPiEstimation.png)
 
-Robot de reciclaje
+## Semanas 6-12
+
+* Encender led (electricidad)
+* Bucles 
+* Variables (series matemáticas)
+* Sonido (notas musicales)
+
+### Proyecto: Árbol de Navidad Cibernético
+![arduinoTree](./images/christmasTree.ppg)
+
+Motores y engranajes	(moviento, medidas de longitud, divisores comunes)
+Reutilización de componentes (ecología)
+Evalución de costes de proyectos (economía)
+
+### Proyecto (según las fechas)
+
+Halloween robótico
+![monster](./images/halloween.jpg)
+
+### Robot de reciclaje
+![robotreciclaje](./images/roboticaDIY.jpg)
 
 13-20
 
@@ -83,15 +77,25 @@ Tipos de robots
 Partes de un robots (Anatomía animal y humana)
 Robots móvil (distancias y ángulos)
 
+
 Comportamientos:
 	Siguelíneas
 	Huyeluz
+
+### Proyecto: Robot móvil
+
+![robot movil](./images/robot_movil.png)
 
 21-28 
 Diseño 3D 
 TinkerCad
 	Figuras geométricas (primas, perspectiva, desarrollos)
 	Llaveros, marcapáginas (plástica)
+
+### Proyectos: Llaveros, adornos, marcapáginas
+
+![llavero](./images/nombre3D.png)
+
 Técnicas de Impresión 3D
 
 
