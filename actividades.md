@@ -60,7 +60,7 @@ En ellos se aplican los conocimientos propios de cada actividad además de habil
 * Sonido (notas musicales)
 
 ### Proyecto: Árbol de Navidad Cibernético
-![arduinoTree](./images/christmasTree.ppg)
+![arduinoTree](./images/christmasTree.jpg)
 
 Motores y engranajes	(moviento, medidas de longitud, divisores comunes)
 Reutilización de componentes (ecología)
