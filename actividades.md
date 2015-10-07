@@ -27,15 +27,15 @@ Disfraz carnaval
 
 Robot de reciclaje
 
-![robotreciclaje](./images/roboticaDIY.png)
+![robotreciclaje](./images/roboticaDIY.jpg)
 
 Robot móvil
 
-!(robot movil](./images/robot movil.png)
+![robot movil](./images/robot_movil.png)
 
 Llaveros, adornos, marcapáginas
 
-![llavero](./image/nombre3D.png)
+![llavero](./images/nombre3D.png)
 
 # Actividades
 
