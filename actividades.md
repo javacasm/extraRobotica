@@ -2,15 +2,15 @@
 
 Podemos articular la asignatura en 3 partes fundamentales:
 
-### Programación
+## Programación
 
 ![code](./images/codeorg.png)
 
-### Diseño e impresión 3D
+## Diseño e impresión 3D
 
 ![3d](./images/3D_design.png)
 
-### Robotica
+## Robótica
 
 ![robot](./images/robot.png)
 
@@ -30,7 +30,10 @@ Los entornos de programación tienen dificultad gradual y permiten avanzar progr
 
 A lo largo del curso realizaremos diferentes proyectos. Se van elaborando durante varias (cada 3 aproximadamente) semanas, completándolo al final de ese tiempo.
 
+![docs](./images/docs.png)
 En ellos se aplican los conocimientos propios de cada actividad además de habilidades como la redacción de documentación, evaluación del costes, trabajo en equipo, reparto de tareas...
+
+![money](./images/euro.jpg)
 
 # Actividades
 
