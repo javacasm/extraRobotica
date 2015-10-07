@@ -1,4 +1,7 @@
-# Robótica, Programación y diseño 3D como actividades extraescolares
+# RP3D: 
+## Robótica, Programación y diseño 3D como actividades extraescolares
+
+![RP3D](./images/extraRP3D.png)
 * * * 
 # Temas
 
