@@ -1,3 +1,5 @@
+# Robótica, Programación y diseño 3D como actividades extraescolares
+* * * 
 # Temas
 
 Podemos articular la asignatura en 3 partes fundamentales:
@@ -6,14 +8,21 @@ Podemos articular la asignatura en 3 partes fundamentales:
 
 ![code](./images/codeorg.png)
 
+Los entornos de programación tienen dificultad gradual y permiten avanzar progresivamente, permitiendo a los alumnos más avanzados o mayores.
+
+Se utilizan entornos visuales donde la programación se basa en bloques. De hecho existen entornos de este tipo que nos permiten hacer hasta aplicaciones Android.
+
 ## Diseño e impresión 3D
 
 ![3d](./images/3D_design.png)
+
+Son aplicaciones sencillas orientadas a realizar operaciones sencillas para construir modelos de complejidad media, pero que introducen los conceptos esenciales y que permiten exportar el resultado para imprimirlo en 3D.
 
 ## Robótica
 
 ![robot](./images/robot.png)
 
+Si añadimos a las anteriores habilidades el  uso de módulos electrónicos sencillos, que podemos programar con entornos muy similares podemos construir robots que pueden llegar a ser muy complejos.
 
 # Metodología
 
@@ -22,8 +31,6 @@ Evidentemente se hace necesario el uso del ordenador para la gran parte de las a
 ![guadalinex](./images/guadalinex.jpg)
 
 Para la mayoría de las actividades **no** son necesarias muchas habilidades con el ordenador, basta con el manejo del ratón y leer con atención la pantalla.
-
-Los entornos de programación tienen dificultad gradual y permiten avanzar progresivamente, permitiendo a los alumnos más avanzados o mayores.
 
 
 # Proyectos
