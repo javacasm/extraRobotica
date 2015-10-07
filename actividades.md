@@ -41,11 +41,13 @@ Para la mayoría de las actividades **no** son necesarias muchas habilidades con
 A lo largo del curso realizaremos diferentes proyectos. Se van elaborando durante varias (cada 3 aproximadamente) semanas, completándolo al final de ese tiempo.
 
 ![docs](./images/docs.png)
-En ellos se aplican los conocimientos propios de cada actividad además de habilidades como la redacción de documentación, 
+En ellos, los niños aprenden además de los conocimientos propios de cada actividad, habilidades como la redacción de documentación, 
 
 ![money](./images/euro.jpg)evaluación del costes, trabajo en equipo, reparto de tareas...
 
 # Actividades
+
+Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 horas semanales.
 
 ## Semanas 1-5 
 
@@ -104,9 +106,12 @@ Comportamientos:
 
 21-28 
 Diseño 3D 
-TinkerCad
-	Figuras geométricas (primas, perspectiva, desarrollos)
-	Llaveros, marcapáginas (plástica)
+TinkerCad 
+Figuras geométricas básicas(prismas, perspectiva, desarrollos)
+Construcción de figuras complejas por adición figuras simples (operaciones de unión, intersección)
+Llaveros, marcapáginas (plástica)
+Búsqueda de diseños en internet
+
 
 ### Proyectos: Llaveros, adornos, marcapáginas
 
@@ -115,7 +120,7 @@ TinkerCad
 Técnicas de Impresión 3D
 
 
-
+## Cuadro resumen de actividades:
 
 Duración: 7 meses, 28 semanas
 
