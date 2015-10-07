@@ -17,13 +17,19 @@ Podemos articular la asignatura en 3 partes fundamentales:
 
 # Proyectos
 
+A lo largo del 
+
 Juego
+
+![juego](http://www.stemulate.org/wp-content/uploads/2013/03/ScratchPiEstimation.png)
 
 Halloween 
 
+![monster](http://cmuems.com/2012/a/files/2012/11/8147392151_12b24c3f12_h.jpg)
+
 Adorno navideño robótico (en Diciembre)
 
-Disfraz carnaval
+![arduinoTree](http://www.makeuseof.com/wp-content/uploads/2011/12/an-arduino-project-how-to-make-flashy-christmas-lights-ornaments.jpg)
 
 Robot de reciclaje
 
@@ -41,7 +47,7 @@ Llaveros, adornos, marcapáginas
 
 1-5 
 Programación basica (scratch)
-Juegos (matemáticas)
+Juegos Geométricos (matemáticas)
 
 6-12
 Encender led (electricidad)
