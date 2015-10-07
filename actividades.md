@@ -17,15 +17,14 @@ Podemos articular la asignatura en 3 partes fundamentales:
 
 # Metodología
 
-Evidentemente se hace necesario el uso del ordenador para la gran parte de las actividades. Los programas que se utilizan están adaptados para ser usados en las aulas de informática de los centros (con instalaciones de [Guadalinex](http://www.guadalinex.org/) o similar), aunque también son adaptables a sistemas windows.
+Evidentemente se hace necesario el uso del ordenador para la gran parte de las actividades. Los programas que se utilizan están prepardos para ser usados en las aulas de informática de los centros (con instalaciones de [Guadalinex](http://www.guadalinex.org/) o similar), aunque también son adaptables a sistemas windows.
 
-![guadalinex](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsO6GjPyqz-yf6rpZNHlB58i9a-EYGQC5WPWJVUKzKqmwL4yTPy_jZdsY)
+![guadalinex](./images/guadalinex.jpg)
 
 Para la mayoría de las actividades **no** son necesarias muchas habilidades con el ordenador, basta con el manejo del ratón y leer con atención la pantalla.
 
-Los entornos de programación tienen dificultad gradual y permiten avanzar progresivamente, permitiendo a los alumnos más avanzados o mayores 
+Los entornos de programación tienen dificultad gradual y permiten avanzar progresivamente, permitiendo a los alumnos más avanzados o mayores.
 
-![codigo](./images/codigo.png)
 
 # Proyectos
 
@@ -44,7 +43,11 @@ En ellos se aplican los conocimientos propios de cada actividad además de habil
 
 ### Proyecto: Juego
 
-![juego](http://www.stemulate.org/wp-content/uploads/2013/03/ScratchPiEstimation.png)
+![juego](images/juegoScratch.png)
+
+
+* Los entornos permiten iniciar el aprendizaje de la programación más clásica viendo el código
+![codigo](./images/codigo.png)
 
 ## Semanas 6-12
 
