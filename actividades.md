@@ -74,50 +74,51 @@ Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 
 ### Proyecto: Árbol de Navidad Cibernético
 ![arduinoTree](./images/christmasTree.jpg)
 
-Motores y engranajes	(moviento, medidas de longitud, divisores comunes)
-Reutilización de componentes (ecología)
-Evalución de costes de proyectos (economía)
+* Motores y engranajes	(moviento, medidas de longitud, divisores comunes)
+* Reutilización de componentes (ecología)
+* Evalución de costes de proyectos (economía)
 
 ### Proyecto (según las fechas)
 
-Halloween robótico
+### Halloween robótico
 ![monster](./images/halloween.jpg)
 
 ### Robot de reciclaje
 ![robotreciclaje](./images/roboticaDIY.jpg)
 
-13-20
+## Semanas 13-20
 
-Sensor luz (Longitudes de onda, luz invisible)
-Medida de tiempo (unidades de tiempo,precisión)
-Longitudes (conversión entre unidades)
-Tipos de robots 
-Partes de un robots (Anatomía animal y humana)
-Robots móvil (distancias y ángulos)
+* Sensor luz (Longitudes de onda, luz invisible)
+* Medida de tiempo (unidades de tiempo,precisión)
+* Longitudes (conversión entre unidades)
+* Tipos de robots 
+* Partes de un robots (Anatomía animal y humana)
+* Robots móvil (distancias y ángulos)
 
 
-Comportamientos:
-	Siguelíneas
-	Huyeluz
+* Comportamientos:
+	* Siguelíneas
+	* Huyeluz
 
 ### Proyecto: Robot móvil
 
 ![robot movil](./images/robot_movil.png)
 
-21-28 
-Diseño 3D 
-TinkerCad 
-Figuras geométricas básicas(prismas, perspectiva, desarrollos)
-Construcción de figuras complejas por adición figuras simples (operaciones de unión, intersección)
-Llaveros, marcapáginas (plástica)
-Búsqueda de diseños en internet
+## Semanas 21-28 
 
+* Diseño 3D 
+* TinkerCad 
+* Figuras geométricas básicas(prismas, perspectiva, desarrollos)
+* Construcción de figuras complejas por adición figuras simples (operaciones de unión, intersección)
+* Llaveros, marcapáginas (plástica)
+* Búsqueda de diseños en internet
+* Técnicas de Impresión 3D
 
 ### Proyectos: Llaveros, adornos, marcapáginas
 
 ![llavero](./images/nombre3D.png)
 
-Técnicas de Impresión 3D
+
 
 
 ## Cuadro resumen de actividades:
