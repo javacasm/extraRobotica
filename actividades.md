@@ -31,9 +31,9 @@ Los entornos de programación tienen dificultad gradual y permiten avanzar progr
 A lo largo del curso realizaremos diferentes proyectos. Se van elaborando durante varias (cada 3 aproximadamente) semanas, completándolo al final de ese tiempo.
 
 ![docs](./images/docs.png)
-En ellos se aplican los conocimientos propios de cada actividad además de habilidades como la redacción de documentación, evaluación del costes, trabajo en equipo, reparto de tareas...
+En ellos se aplican los conocimientos propios de cada actividad además de habilidades como la redacción de documentación, 
 
-![money](./images/euro.jpg)
+![money](./images/euro.jpg)evaluación del costes, trabajo en equipo, reparto de tareas...
 
 # Actividades
 
