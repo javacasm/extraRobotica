@@ -14,5 +14,11 @@ Telescopio (para mostrar el proyecto)
 [Microscopio](http://www.thingiverse.com/thing:77450)
 ![micro](http://thingiverse-production-new.s3.amazonaws.com/renders/43/39/e7/b7/7a/IMG_1864_preview_featured.jpg)
 
-Cardboard
+[Otro mircoscopio](http://www.thingiverse.com/thing:822315)
+![micro2](http://thingiverse-production-new.s3.amazonaws.com/renders/00/46/fd/41/b8/IMG_20150509_080531056_preview_featured.jpg)
+
+[Cardboard](https://www.google.com/get/cardboard/)
+![car](http://www.greenlightgames.co.uk/wp-content/uploads/2015/05/google-cardboard.jpg)
+Herramientas para poder hacer Realidad Virtual prácticamente sin coste
+
 hologramas
