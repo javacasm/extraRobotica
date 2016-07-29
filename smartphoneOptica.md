@@ -36,8 +36,10 @@ Se añade como una pinza al teléfono y la lente hace que la cámara se conviert
 Herramientas para poder hacer Realidad Virtual prácticamente sin coste
 [cómo hacerlo](http://www.xatakandroid.com/gadgets-android/como-construir-nuestro-propio-cardboard)
 
+[Aplicaciones para ver en Cardboard](http://www.androidauthority.com/best-google-cardboard-vr-apps-and-games-622766/)
 
-# Proyector de hologramas 
+
+# Proyector de hologramas
 ![pro](https://lh3.googleusercontent.com/tDjaMzAwVR_1G_VJdugHbar0bL8etFPFZ1qI3kRQYA3K4ZJirTbUWYBUNcaywLNhfTakLWZotmj4qTBsSQZmrvkQDBDGmj-S4r6-hY_IB8b6DTYNvfBphvXBHqSLZBAmp4oQx8VepvSmua-Ls4nN9r9ivUrAFkh0nWCaMM9x4SOQ3X4ZdsOwSC7QlQJfDrQoWT9TrIVJQIRkOYSn6i-VhTslnqmfvSrI_wfIqCGJJFPFjDgu6PzdaFi8Agswh5Eyi58Z5QoOfiGGiuowAtqEuEOEgUaTmT_EiUxQ3Rba1zxyEiNOGIr2tjiSddk3g0rQEo0ArgqpCFVQNE60aaoB5owlVBHlmLjTeH_TCthSrlkoNTw4eHfSE8KlKj75vjvpGvJXq4GHI_cHGCQSyTppxs1LPZg3ZUmJvsOw37JLaE6wTMniFh6bBnx1FcOdN5gK3sgkEuQJQrav8TWeH-yWnIuniWdFkkd0B4mmkO4lLLGF5JHgQsS1mFlDWJ9lYUIpD7W5GRHcJUKKdtHtzDqm0c7pLGzYDD20BP6438RZct5P=w1305-h965-no)
 
 [vídeo](https://www.youtube.com/watch?v=7YWTtCsvgvg&index=1&list=PLDxBiw1MlK6RhBFmdO5gY2l_aukufp2r2)
