@@ -20,6 +20,9 @@ Se añade como una pinza al teléfono y la lente hace que la cámara se conviert
 
 [descripcion del proyecto](http://www.xataka.com/espacio/ultrascope-es-un-telescopio-robotizado-que-podras-imprimirte-en-3d-y-que-usa-un-lumia-1020)
 
+## [Microscopio con Raspberry](https://hackaday.io/project/11429-internet-of-things-microscope)
+
+![1](https://cdn.hackaday.io/images/6220601468111459742.JPG)
 
 
 ## [Microscopio](http://www.thingiverse.com/thing:77450)
