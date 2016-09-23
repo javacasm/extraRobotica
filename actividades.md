@@ -1,8 +1,8 @@
-# RP3D: 
+# RP3D:
 ## Robótica, Programación y diseño 3D como actividades extraescolares
 
 ![RP3D](./images/extraRP3D.png)
-* * * 
+* * *
 # Temas
 
 Podemos articular la asignatura en 3 partes fundamentales:
@@ -41,7 +41,7 @@ Para la mayoría de las actividades **no** son necesarias muchas habilidades con
 A lo largo del curso realizaremos diferentes proyectos. Se van elaborando durante varias (cada 3 aproximadamente) semanas, completándolo al final de ese tiempo.
 
 ![docs](./images/docs.png)
-En ellos, los niños aprenden además de los conocimientos propios de cada actividad, habilidades como la redacción de documentación, 
+En ellos, los niños aprenden además de los conocimientos propios de cada actividad, habilidades como la redacción de documentación,
 
 ![money](./images/euro.jpg)evaluación del costes, trabajo en equipo, reparto de tareas...
 
@@ -49,7 +49,7 @@ En ellos, los niños aprenden además de los conocimientos propios de cada activ
 
 Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 horas semanales.
 
-## Semanas 1-5 
+## Semanas 1-5
 
 * Programación basica (scratch)
 * Juegos Geométricos (matemáticas)
@@ -67,7 +67,7 @@ Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 
 ## Semanas 6-12
 
 * Encender led (electricidad)
-* Bucles 
+* Bucles
 * Variables (series matemáticas)
 * Sonido (notas musicales)
 
@@ -91,7 +91,7 @@ Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 
 * Sensor luz (Longitudes de onda, luz invisible)
 * Medida de tiempo (unidades de tiempo,precisión)
 * Longitudes (conversión entre unidades)
-* Tipos de robots 
+* Tipos de robots
 * Partes de un robots (Anatomía animal y humana)
 * Robots móvil (distancias y ángulos)
 
@@ -104,10 +104,10 @@ Este es un listade de las posibles activides para 2 trimestres (28 semanas) a 2 
 
 ![robot movil](./images/robot_movil.png)
 
-## Semanas 21-28 
+## Semanas 21-28
 
-* Diseño 3D 
-* TinkerCad 
+* Diseño 3D
+* TinkerCad
 * Figuras geométricas básicas(prismas, perspectiva, desarrollos)
 * Construcción de figuras complejas por adición figuras simples (operaciones de unión, intersección)
 * Llaveros, marcapáginas (plástica)
@@ -134,8 +134,6 @@ Duración: 7 meses, 28 semanas
 
 
 
-# Temas a pensar
+# Inglés
 
-¿Inglés?
-¿Actividades externas al cole?
-
+Existe la posibilidad de realizar algunas de las actividades en Inglés
